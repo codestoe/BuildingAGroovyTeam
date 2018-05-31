@@ -1,0 +1,6 @@
+# BuildingAGroovyTeam
+
+describing the influences on team effectiveness, show what our team is doing to improve our team effectiveness, and discuss the challenges we had and the lessons we learned, so far.
+
+## gr8conf 2018
+https://gr8conf.eu/talks/625
